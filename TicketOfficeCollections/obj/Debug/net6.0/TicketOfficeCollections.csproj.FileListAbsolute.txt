@@ -1,0 +1,14 @@
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.AssemblyInfoInputs.cache
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.AssemblyInfo.cs
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/bin/Debug/net6.0/TicketOfficeCollections
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/bin/Debug/net6.0/TicketOfficeCollections.deps.json
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/bin/Debug/net6.0/TicketOfficeCollections.runtimeconfig.json
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/bin/Debug/net6.0/TicketOfficeCollections.dll
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/bin/Debug/net6.0/TicketOfficeCollections.pdb
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.dll
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/refint/TicketOfficeCollections.dll
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.pdb
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/TicketOfficeCollections.genruntimeconfig.cache
+/Users/fateh/Projects/TicketOfficeCollections/TicketOfficeCollections/obj/Debug/net6.0/ref/TicketOfficeCollections.dll
